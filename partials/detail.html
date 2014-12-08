@@ -1,0 +1,9 @@
+<section class="slideinfo">
+	<div class="slide" ng-model="slides">
+		<a href="#/detail/{{prevItem}}">&lt;</a>
+		<a href="#/detail/{{nextItem}}">&gt;</a>
+		<h1>{{slides[whichItem].caption}}</h1>
+		<img ng-src="images/{{slides[whichItem].image}}" alt="Photo of {{slides[whichItem].caption}}">
+	</div>
+	<a href="index.html">&laquo; Back to slides</a>
+</section>

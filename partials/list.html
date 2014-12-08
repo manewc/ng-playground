@@ -1,0 +1,15 @@
+<button ng-click="setView('carousel')">View As Carousel</button>
+
+<div class="debugger">{{currentIndex}}</div>
+<button ng-click="setView('all')">View All</button>
+<button class="navigator previous" ng-click="previousSlide()">Previous</button>
+<button class="navigator next" ng-click="nextSlide()">Next</button>
+
+<ul class="carousel">
+	<li ng-repeat="item in slides" ng-hide="!isCurrentSlide($index)" class="highlight-{{highlightSlide($index)}}">
+		<a href="#/detail/{{slides.indexOf(item)}}">
+			<img ng-src="images/{{item.image}}" alt="" />
+			<p>{{item.caption}}</p>
+		</a>
+	</li>
+</ul>

@@ -1,0 +1,34 @@
+[
+	{
+		"caption" : "1",
+		"image" : "apples.jpg"
+	},
+	{
+		"caption" : "2",
+		"image" : "candy-corn.jpg"
+	},
+	{
+		"caption" : "3",
+		"image" : "hazel-stroller.jpg"
+	},
+	{
+		"caption" : "4",
+		"image" : "hazel-swing.jpg"
+	},
+	{
+		"caption" : "5",
+		"image" : "hazel-smile.jpg"
+	},
+	{
+		"caption" : "6",
+		"image" : "hazel.jpg"
+	},
+	{
+		"caption" : "7",
+		"image" : "max-baby.jpg"
+	},
+	{
+		"caption" : "8",
+		"image" : "max-one-year.jpg"
+	}
+]
