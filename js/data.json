@@ -1,34 +1,50 @@
 [
 	{
+		"caption" : "0",
+		"image" : "hazel-nose.jpg"
+	},
+	{
 		"caption" : "1",
-		"image" : "apples.jpg"
+		"image" : "max-funny.jpg"
 	},
 	{
 		"caption" : "2",
-		"image" : "candy-corn.jpg"
+		"image" : "hazel-smile-2.jpg"
 	},
 	{
 		"caption" : "3",
-		"image" : "hazel-stroller.jpg"
+		"image" : "max-smile.jpg"
 	},
 	{
 		"caption" : "4",
-		"image" : "hazel-swing.jpg"
+		"image" : "apples.jpg"
 	},
 	{
 		"caption" : "5",
-		"image" : "hazel-smile.jpg"
+		"image" : "candy-corn.jpg"
 	},
 	{
 		"caption" : "6",
-		"image" : "hazel.jpg"
+		"image" : "hazel-stroller.jpg"
 	},
 	{
 		"caption" : "7",
-		"image" : "max-baby.jpg"
+		"image" : "hazel-swing.jpg"
 	},
 	{
 		"caption" : "8",
+		"image" : "hazel-smile.jpg"
+	},
+	{
+		"caption" : "9",
+		"image" : "hazel.jpg"
+	},
+	{
+		"caption" : "10",
+		"image" : "max-baby.jpg"
+	},
+	{
+		"caption" : "11",
 		"image" : "max-one-year.jpg"
 	}
 ]
